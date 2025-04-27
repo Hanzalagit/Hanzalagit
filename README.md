@@ -1,11 +1,11 @@
 <!-- Profile Cover Image -->
-<img src="https://raw.githubusercontent.com/Hanzalagit/Hanzalagit/main/assets/banner.png" align="center" style="width: 100%" alt="Hanzala Malik Banner"/>
+<img src="assets/banner.png" align="center" style="width: 100%" alt="Hanzala Malik Banner"/>
 
 <h1 align="center">Hi 👋, I'm Hanzala Malik</h1>
 <h3 align="center">Crafting Visual Stories | Building Creative Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Graphic+Designer;Web+Developer;UI/UX+Designer;Creative+Artist;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&lines=Graphic+Designer;Web+Developer;UI/UX+Designer;Creative+Artist;Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,10 +32,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hanzalagit&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Hanzalagit&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hanzalagit&theme=tokyo-night" width="90%" />
 </div>
 
 ---
